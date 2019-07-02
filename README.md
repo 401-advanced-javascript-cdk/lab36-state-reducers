@@ -2,6 +2,8 @@
 
 Redux implementation with multiple reducers
 
+[Assignment Part 1](https://github.com/401-advanced-javascript-cdk/lab36-app-state-connect/blob/state-connect/README.md)
+
 ### Author: Chris Kozlowski
 
 ### Links and Resources
