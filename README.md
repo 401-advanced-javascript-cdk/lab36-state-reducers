@@ -6,8 +6,8 @@ Redux implementation with multiple reducers
 
 ### Links and Resources
 
-- [GitHub PR]()
-- [Netlify Deployment]()
+- [GitHub PR](https://github.com/401-advanced-javascript-cdk/lab36-state-reducers/pull/1)
+- [Netlify Deployment](https://keen-joliot-24ce61.netlify.com)
 
 ### Modules
 
@@ -49,4 +49,4 @@ Creates a log on any action.
 
 #### Operation
 
-Go to the deployment [here]().  Clicking on the NAME text will activate the 'CHANGE' action, changing the name to a random name and the number to a random number, both of which originate from the store's state.  Clicking the RESET div will activate the 'RESET' action, setting the number onlt to its initial state.
+Go to the deployment [here](https://keen-joliot-24ce61.netlify.com).  Clicking on the NAME text will activate the 'CHANGE' action, changing the name to a random name and the number to a random number, both of which originate from the store's state.  Clicking the RESET div will activate the 'RESET' action, setting the number onlt to its initial state.
